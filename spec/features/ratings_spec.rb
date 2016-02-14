@@ -6,7 +6,8 @@ describe "Rating" do
   let!(:beer1) { FactoryGirl.create :beer, name:"iso 3", brewery:brewery }
   let!(:beer2) { FactoryGirl.create :beer, name:"Karhu", brewery:brewery }
   let!(:user) { FactoryGirl.create :user }
-
+  let!(:rating1){ FactoryGirl.create :rating, score:20, beer_id:1 }
+  let!(:rating1){ FactoryGirl.create :rating, score:10, beer_id:2 }
   before :each do
      sign_in(username:"Pekka", password:"Foobar1")
   end
@@ -18,10 +19,15 @@ describe "Rating" do
 
     expect{
       click_button "Create Rating"
-    }.to change{Rating.count}.from(0).to(1)
+    }.to change{Rating.count}.by(1)
 
     expect(user.ratings.count).to eq(1)
     expect(beer1.ratings.count).to eq(1)
     expect(beer1.average_rating).to eq(15.0)
+  end
+  it "ratings page show number of and list of ratings" do
+    expect(page).to have_content "Number of ratings #{user.ratings.count}"
+    expect(page).to have_content "iso 3"
+    expect(page).to have_content "Karhu"
   end
 end
