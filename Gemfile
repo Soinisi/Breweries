@@ -60,10 +60,12 @@ end
 
 group :development, :test do
   gem 'rspec-rails', '~> 3.0'
+  gem 'rspec-its'
 end
 
 group :test do
   gem 'factory_girl_rails'
   gem 'capybara'
   gem 'launchy'
+  gem 'simplecov', require: false
 end
