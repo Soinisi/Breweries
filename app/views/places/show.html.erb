@@ -1,0 +1,19 @@
+<p>
+  <h2><strong><%= (BeermappingApi.places_in(session[:last_city])).select{|pub| pub.id == params[:id].to_s}[0].name %></strong></h2>
+  
+</p>
+	
+<p>
+  
+  <%= (BeermappingApi.places_in(session[:last_city])).select{|pub| pub.id == params[:id].to_s}[0].street %>
+</p>
+
+<p>
+  
+  <%= (BeermappingApi.places_in(session[:last_city])).select{|pub| pub.id == params[:id].to_s}[0].zip %>
+  
+</p>
+</p>
+ 
+<iframe src="<%(BeermappingApi.places_in(session[:last_city])).select{|pub| pub.id == params[:id].to_s}[0].proxylink%>" ></iframe>
+</p>

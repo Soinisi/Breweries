@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Ratebeer</title>
+  <link rel="stylesheet" media="all" href="/assets/application-185a1f812a6e5e3fa176d2ec1214c8b2f9985b83f4c942a5448550575837218e.css" data-turbolinks-track="true" />
+  <script src="/assets/application-1bd59ebebcc4bd3ff9afdd3430ac2e4d313953b6b6966f6710fd650c21c52fd1.js" data-turbolinks-track="true"></script>
+  
+</head>
+<body>
+ <div class="navibar">
+    <a href="/breweries">breweries</a>
+    <a href="/beers">beers</a>
+    <a href="/ratings">ratings</a>
+  	<a href="/users">users</a>
+    <a href="/beer_clubs">clubs</a>
+  	<a href="/places">find pubs</a>
+
+  		<a href="/signup">sign up</a>
+      <a href="/session/new">signin</a> 
+
+
+  </div>
+<p id="notice"></p>
+
+<form action="/places" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" />
+  city <input type="text" name="city" id="city" value="kumpula" />
+  <input type="submit" name="commit" value="Search" />
+</form>
+  <table>
+    <thead>
+        <td>id</td>
+        <td>name</td>
+        <td>status</td>
+        <td>street</td>
+        <td>city</td>
+        <td>zip</td>
+        <td>country</td>
+        <td>overall</td>
+    </thead>
+      <tr>
+          <td>1</td>
+          <td>Oljenkorsi</td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td></td>
+      </tr>
+      <tr>
+          <td>2</td>
+          <td>London pub</td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td></td>
+      </tr>
+  </table>
+
+
+</body>
+</html>
