@@ -1,0 +1,73 @@
+o: ActiveSupport::Cache::Entry:@value[o:
+Place:@idI"	6730:ET:
+@nameI"Frog and Rosbif, The;	T:@statusI"Brewpub;	T:@reviewlinkI"?http://beermapping.com/maps/reviews/reviews.php?locid=6730;	T:@proxylinkI"=http://beermapping.com/maps/proxymaps.php?locid=6730&d=5;	T:@blogmapI"Ghttp://beermapping.com/maps/blogproxy.php?locid=6730&d=1&type=norm;	T:@streetI"116 Rue St. Denis;	T:
+@cityI"
+Paris;	T:@state0:	@zipI"
+75002;	T:@countryI"France;	T:@phoneI"+33 1 42363473;	T:@overallI"83.3333;	T:@imagecountI"0;	To;;I"	6773;	T;
+I"Brasserie O'Neil;	T;I"Brewpub;	T;I"?http://beermapping.com/maps/reviews/reviews.php?locid=6773;	T;I"=http://beermapping.com/maps/proxymaps.php?locid=6773&d=5;	T;I"Ghttp://beermapping.com/maps/blogproxy.php?locid=6773&d=1&type=norm;	T;I"20 Rue des Canettes;	T;I"
+Paris;	T;0;I"
+75006;	T;I"France;	T;I"+33 1 46 333 6;	T;I"0;	T;I"0;	To;;I"	7506;	T;
+I"Caves à Bulles;	T;I"Beer Store;	T;I"?http://beermapping.com/maps/reviews/reviews.php?locid=7506;	T;I"=http://beermapping.com/maps/proxymaps.php?locid=7506&d=5;	T;I"Ghttp://beermapping.com/maps/blogproxy.php?locid=7506&d=1&type=norm;	T;I"45 rue Quincampoix;	T;I"
+Paris;	T;0;I"
+75004;	T;I"France;	T;0;I"0;	T;I"2;	To;;I"	7507;	T;
+I"Bootlegger;	T;I"Beer Store;	T;I"?http://beermapping.com/maps/reviews/reviews.php?locid=7507;	T;I"=http://beermapping.com/maps/proxymaps.php?locid=7507&d=5;	T;I"Ghttp://beermapping.com/maps/blogproxy.php?locid=7507&d=1&type=norm;	T;I"82 rue de lOuest;	T;I"
+Paris;	T;0;I"
+75014;	T;I"France;	T;I"01 43 27 94 02;	T;I"0;	T;I"0;	To;;I"	9089;	T;
+I"Frog and Princess;	T;I"Brewpub;	T;I"?http://beermapping.com/maps/reviews/reviews.php?locid=9089;	T;I"=http://beermapping.com/maps/proxymaps.php?locid=9089&d=5;	T;I"Ghttp://beermapping.com/maps/blogproxy.php?locid=9089&d=1&type=norm;	T;I"9, rue Princesse;	T;I"
+Paris;	T;0;I"
+75006;	T;I"France;	T;I"01 40 51 77 38;	T;I"48.33295;	T;I"0;	To;;I"	9090;	T;
+I"La Fabrique;	T;I"Brewpub;	T;I"?http://beermapping.com/maps/reviews/reviews.php?locid=9090;	T;I"=http://beermapping.com/maps/proxymaps.php?locid=9090&d=5;	T;I"Ghttp://beermapping.com/maps/blogproxy.php?locid=9090&d=1&type=norm;	T;I"&53, rue du Faubourg Saint Antoine;	T;I"
+Paris;	T;0;I"
+75011;	T;I"France;	T;I"01 43 07 67 07;	T;I"0;	T;I"0;	To;;I"	9091;	T;
+I"The Frog and Bercy Village;	T;I"Brewpub;	T;I"?http://beermapping.com/maps/reviews/reviews.php?locid=9091;	T;I"=http://beermapping.com/maps/proxymaps.php?locid=9091&d=5;	T;I"Ghttp://beermapping.com/maps/blogproxy.php?locid=9091&d=1&type=norm;	T;I"25, cour Saint Emilion;	T;I"
+Paris;	T;0;I"
+75012;	T;I"France;	T;I"01 43 40 70 71;	T;I"0;	T;I"0;	To;;I"	9092;	T;
+I"!The Frog and British Library;	T;I"Brewpub;	T;I"?http://beermapping.com/maps/reviews/reviews.php?locid=9092;	T;I"=http://beermapping.com/maps/proxymaps.php?locid=9092&d=5;	T;I"Ghttp://beermapping.com/maps/blogproxy.php?locid=9092&d=1&type=norm;	T;I"114, avenue de France;	T;I"
+Paris;	T;0;I"
+75013;	T;I"France;	T;I"01 45 84 34 26;	T;I"0;	T;I"0;	To;;I"	9095;	T;
+I"L'Epi Noir;	T;I"Brewery;	T;I"?http://beermapping.com/maps/reviews/reviews.php?locid=9095;	T;I"=http://beermapping.com/maps/proxymaps.php?locid=9095&d=5;	T;I"Ghttp://beermapping.com/maps/blogproxy.php?locid=9095&d=1&type=norm;	T;I"4, rue Georges Lardennois;	T;I"
+Paris;	T;0;I"
+75019;	T;I"France;	T;I"01 42 00 28 70;	T;I"0;	T;I"0;	To;;I"	9385;	T;
+I"Culture Bière;	T;I"Beer Bar;	T;I"?http://beermapping.com/maps/reviews/reviews.php?locid=9385;	T;I"=http://beermapping.com/maps/proxymaps.php?locid=9385&d=5;	T;I"Ghttp://beermapping.com/maps/blogproxy.php?locid=9385&d=1&type=norm;	T;I"65 Champs Elysées;	T;I"
+Paris;	T;0;I"
+75008;	T;I"France;	T;0;I"0;	T;I"0;	To;;I"	9386;	T;
+I"Horse's Tavern;	T;I"Beer Bar;	T;I"?http://beermapping.com/maps/reviews/reviews.php?locid=9386;	T;I"=http://beermapping.com/maps/proxymaps.php?locid=9386&d=5;	T;I"Ghttp://beermapping.com/maps/blogproxy.php?locid=9386&d=1&type=norm;	T;I"16, Carrefour de l'Odeon;	T;I"
+Paris;	T;0;I"
+75006;	T;I"France;	T;I"01 43 54 96 91;	T;I"0;	T;I"0;	To;;I"	9387;	T;
+I"La Gueuse;	T;I"Beer Bar;	T;I"?http://beermapping.com/maps/reviews/reviews.php?locid=9387;	T;I"=http://beermapping.com/maps/proxymaps.php?locid=9387&d=5;	T;I"Ghttp://beermapping.com/maps/blogproxy.php?locid=9387&d=1&type=norm;	T;I"19, Rue Soufflot;	T;I"
+Paris;	T;0;I"
+75005;	T;I"France;	T;I"01 43 54 63 00;	T;I"0;	T;I"0;	To;;I"	9500;	T;
+I"Académie de la Bière;	T;I"Beer Bar;	T;I"?http://beermapping.com/maps/reviews/reviews.php?locid=9500;	T;I"=http://beermapping.com/maps/proxymaps.php?locid=9500&d=5;	T;I"Ghttp://beermapping.com/maps/blogproxy.php?locid=9500&d=1&type=norm;	T;I"!88 Bis, Boulevard Port Royal;	T;I"
+Paris;	T;0;I"
+75005;	T;I"France;	T;I"01 43 54 66 65;	T;I"0;	T;I"0;	To;;I"
+12737;	T;
+I"Cobblestone Public House;	T;I"Beer Bar;	T;I"@http://beermapping.com/maps/reviews/reviews.php?locid=12737;	T;I">http://beermapping.com/maps/proxymaps.php?locid=12737&d=5;	T;I"Hhttp://beermapping.com/maps/blogproxy.php?locid=12737&d=1&type=norm;	T;I"!111 Grand River Street North;	T;I"
+Paris;	T;I"Ontario;	T;I"N3L 2M4;	T;I"Canada;	T;I"(519) 442-1820;	T;I"0;	T;I"1;	To;;I"
+14328;	T;
+I"Brewberry;	T;I"Beer Bar;	T;I"@http://beermapping.com/maps/reviews/reviews.php?locid=14328;	T;I">http://beermapping.com/maps/proxymaps.php?locid=14328&d=5;	T;I"Hhttp://beermapping.com/maps/blogproxy.php?locid=14328&d=1&type=norm;	T;I"18 Rue du Pot de Fer;	T;I"
+Paris;	T;0;I"
+75005;	T;I"France;	T;I"0143365392;	T;I"0;	T;I"0;	To;;I"
+17266;	T;
+I"Le Supercoin;	T;I"Beer Bar;	T;I"@http://beermapping.com/maps/reviews/reviews.php?locid=17266;	T;I">http://beermapping.com/maps/proxymaps.php?locid=17266&d=5;	T;I"Hhttp://beermapping.com/maps/blogproxy.php?locid=17266&d=1&type=norm;	T;I"3 Rue Baudelique ;	T;I"
+Paris;	T;0;I"
+75018;	T;I"France;	T;0;I"0;	T;I"0;	To;;I"
+17267;	T;
+I"La Fine Mousse;	T;I"Beer Bar;	T;I"@http://beermapping.com/maps/reviews/reviews.php?locid=17267;	T;I">http://beermapping.com/maps/proxymaps.php?locid=17267&d=5;	T;I"Hhttp://beermapping.com/maps/blogproxy.php?locid=17267&d=1&type=norm;	T;I"6 Avenue Jean Aicard;	T;I"
+Paris;	T;0;I"
+75011;	T;I"France;	T;0;I"0;	T;I"0;	To;;I"
+17268;	T;
+I" Brasserie de la Goutte d'Or;	T;I"Brewery;	T;I"@http://beermapping.com/maps/reviews/reviews.php?locid=17268;	T;I">http://beermapping.com/maps/proxymaps.php?locid=17268&d=5;	T;I"Hhttp://beermapping.com/maps/blogproxy.php?locid=17268&d=1&type=norm;	T;I"28 Rue de la Goutte d Or;	T;I"
+Paris;	T;0;I"
+75018;	T;I"France;	T;0;I"0;	T;I"0;	To;;I"
+17270;	T;
+I"La Cave à Bulles;	T;I"Beer Store;	T;I"@http://beermapping.com/maps/reviews/reviews.php?locid=17270;	T;I">http://beermapping.com/maps/proxymaps.php?locid=17270&d=5;	T;I"Hhttp://beermapping.com/maps/blogproxy.php?locid=17270&d=1&type=norm;	T;I"45 Rue Quincampoix;	T;I"
+Paris;	T;0;I"
+75004;	T;I"France;	T;0;I"0;	T;I"0;	To;;I"
+19619;	T;
+I"Perrylodgic Brewing Co.;	T;I"Brewery;	T;I"@http://beermapping.com/maps/reviews/reviews.php?locid=19619;	T;I">http://beermapping.com/maps/proxymaps.php?locid=19619&d=5;	T;I"Hhttp://beermapping.com/maps/blogproxy.php?locid=19619&d=1&type=norm;	T;I"3465 Highway 79;	T;I"
+Paris;	T;I"TN;	T;I"
+38242;	T;I"United States;	T;I"(731)-407-7100;	T;I"0;	T;I"0;	To;;I"
+19993;	T;
+I"RoosterBrew;	T;I"Brewery;	T;I"@http://beermapping.com/maps/reviews/reviews.php?locid=19993;	T;I">http://beermapping.com/maps/proxymaps.php?locid=19993&d=5;	T;I"Hhttp://beermapping.com/maps/blogproxy.php?locid=19993&d=1&type=norm;	T;I"609 Main St;	T;I"
+Paris;	T;I"KY;	T;I"
+40361;	T;I"United States;	T;I"(859) 707-3436;	T;I"0;	T;I"0;	T:@created_atf1456175956.1961184:@expires_inf6e1

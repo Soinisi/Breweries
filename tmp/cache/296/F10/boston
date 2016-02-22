@@ -1,0 +1,108 @@
+o: ActiveSupport::Cache::Entry:@value[5o:
+Place:@idI"103:ET:
+@nameI"Beer Works - Canal Street;	T:@statusI"Brewpub;	T:@reviewlinkI">http://beermapping.com/maps/reviews/reviews.php?locid=103;	T:@proxylinkI"<http://beermapping.com/maps/proxymaps.php?locid=103&d=5;	T:@blogmapI"Fhttp://beermapping.com/maps/blogproxy.php?locid=103&d=1&type=norm;	T:@streetI"112 Canal Street;	T:
+@cityI"Boston;	T:@stateI"MA;	T:	@zipI"
+02114;	T:@countryI"United States;	T:@phoneI"(617) 896-2337;	T:@overallI"91.6667;	T:@imagecountI"1;	To;;I"104;	T;
+I"Beer Works - Fenway;	T;I"Brewpub;	T;I">http://beermapping.com/maps/reviews/reviews.php?locid=104;	T;I"<http://beermapping.com/maps/proxymaps.php?locid=104&d=5;	T;I"Fhttp://beermapping.com/maps/blogproxy.php?locid=104&d=1&type=norm;	T;I"61 Brookline Avenue;	T;I"Boston;	T;I"MA;	T;I"
+02215;	T;I"United States;	T;I"(617) 536-BEER;	T;I"89.44445;	T;I"0;	To;;I"189;	T;
+I"$Boston Beer Company (Sam Adams);	T;I"Brewery;	T;I">http://beermapping.com/maps/reviews/reviews.php?locid=189;	T;I"<http://beermapping.com/maps/proxymaps.php?locid=189&d=5;	T;I"Fhttp://beermapping.com/maps/blogproxy.php?locid=189&d=1&type=norm;	T;I"30 Germania Street;	T;I"Boston;	T;I"MA;	T;I"
+02130;	T;I"United States;	T;I"(617) 522-9080;	T;I"84.999933333334;	T;I"3;	To;;I"571;	T;
+I"Harpoon Brewery - Boston;	T;I"Brewery;	T;I">http://beermapping.com/maps/reviews/reviews.php?locid=571;	T;I"<http://beermapping.com/maps/proxymaps.php?locid=571&d=5;	T;I"Fhttp://beermapping.com/maps/blogproxy.php?locid=571&d=1&type=norm;	T;I"306 Northern Ave.;	T;I"Boston;	T;I"MA;	T;I"
+02210;	T;I"United States;	T;I"(617) 574-9551;	T;I"0;	T;I"4;	To;;I"	1091;	T;
+I"Rock Bottom - Boston;	T;I"Beer Bar;	T;I"?http://beermapping.com/maps/reviews/reviews.php?locid=1091;	T;I"=http://beermapping.com/maps/proxymaps.php?locid=1091&d=5;	T;I"Ghttp://beermapping.com/maps/blogproxy.php?locid=1091&d=1&type=norm;	T;I"115 Stuart Street;	T;I"Boston;	T;I"MA;	T;I"
+02116;	T;I"United States;	T;I"(617) 742-BREW;	T;I"0;	T;I"0;	To;;I"	1865;	T;
+I"21st Amendment - Boston;	T;I"Beer Bar;	T;I"?http://beermapping.com/maps/reviews/reviews.php?locid=1865;	T;I"=http://beermapping.com/maps/proxymaps.php?locid=1865&d=5;	T;I"Ghttp://beermapping.com/maps/blogproxy.php?locid=1865&d=1&type=norm;	T;I"148 Bowdoin Street;	T;I"Boston;	T;I"MA;	T;I"
+02108;	T;I"United States;	T;I"(617) 227-7100;	T;I"0;	T;I"0;	To;;I"	1869;	T;
+I"Barking Crab;	T;I"Beer Bar;	T;I"?http://beermapping.com/maps/reviews/reviews.php?locid=1869;	T;I"=http://beermapping.com/maps/proxymaps.php?locid=1869&d=5;	T;I"Ghttp://beermapping.com/maps/blogproxy.php?locid=1869&d=1&type=norm;	T;I"88 Sleeper Street;	T;I"Boston;	T;I"MA;	T;I"
+02210;	T;I"United States;	T;I"(617) 426-CRAB ;	T;I"0;	T;I"0;	To;;I"	1872;	T;
+I" Boodle's Bar and Restaurant;	T;I"Beer Bar;	T;I"?http://beermapping.com/maps/reviews/reviews.php?locid=1872;	T;I"=http://beermapping.com/maps/proxymaps.php?locid=1872&d=5;	T;I"Ghttp://beermapping.com/maps/blogproxy.php?locid=1872&d=1&type=norm;	T;I"40 Dalton St.;	T;I"Boston;	T;I"MA;	T;I"
+02115;	T;I"United States;	T;I"(617) 236-1100 ;	T;I"0;	T;I"0;	To;;I"	1873;	T;
+I"Brasserie Jo - Boston;	T;I"Beer Bar;	T;I"?http://beermapping.com/maps/reviews/reviews.php?locid=1873;	T;I"=http://beermapping.com/maps/proxymaps.php?locid=1873&d=5;	T;I"Ghttp://beermapping.com/maps/blogproxy.php?locid=1873&d=1&type=norm;	T;I"120 Huntington Ave;	T;I"Boston;	T;I"MA;	T;I"
+02116;	T;I"United States;	T;I"(617) 425-3240;	T;I"0;	T;I"0;	To;;I"	1876;	T;
+I"Bukowski's Tavern - Boston;	T;I"Beer Bar;	T;I"?http://beermapping.com/maps/reviews/reviews.php?locid=1876;	T;I"=http://beermapping.com/maps/proxymaps.php?locid=1876&d=5;	T;I"Ghttp://beermapping.com/maps/blogproxy.php?locid=1876&d=1&type=norm;	T;I"50 Dalton Street;	T;I"Boston;	T;I"MA;	T;I"
+02115;	T;I"United States;	T;I"(617) 437-9999;	T;I"93.33335;	T;I"0;	To;;I"	1884;	T;
+I"Cornwalls;	T;I"Beer Bar;	T;I"?http://beermapping.com/maps/reviews/reviews.php?locid=1884;	T;I"=http://beermapping.com/maps/proxymaps.php?locid=1884&d=5;	T;I"Ghttp://beermapping.com/maps/blogproxy.php?locid=1884&d=1&type=norm;	T;I"654 Beacon Street;	T;I"Boston;	T;I"MA;	T;I"
+02215;	T;I"United States;	T;I"(617) 262-3749;	T;I"0;	T;I"0;	To;;I"	1889;	T;
+I"Green Dragon Tavern, The;	T;I"Beer Bar;	T;I"?http://beermapping.com/maps/reviews/reviews.php?locid=1889;	T;I"=http://beermapping.com/maps/proxymaps.php?locid=1889&d=5;	T;I"Ghttp://beermapping.com/maps/blogproxy.php?locid=1889&d=1&type=norm;	T;I"11 Marshall St.;	T;I"Boston;	T;I"MA;	T;I"
+02108;	T;I"United States;	T;I"(617) 367-0055;	T;I"86.6664;	T;I"0;	To;;I"	1892;	T;
+I"J.J. Foley's;	T;I"Beer Bar;	T;I"?http://beermapping.com/maps/reviews/reviews.php?locid=1892;	T;I"=http://beermapping.com/maps/proxymaps.php?locid=1892&d=5;	T;I"Ghttp://beermapping.com/maps/blogproxy.php?locid=1892&d=1&type=norm;	T;I"21 Kingston St.;	T;I"Boston;	T;I"MA;	T;I"
+02108;	T;I"United States;	T;I"(617) 338-7713 ;	T;I"0;	T;I"0;	To;;I"	1893;	T;
+I"Jacob Wirth;	T;I"Beer Bar;	T;I"?http://beermapping.com/maps/reviews/reviews.php?locid=1893;	T;I"=http://beermapping.com/maps/proxymaps.php?locid=1893&d=5;	T;I"Ghttp://beermapping.com/maps/blogproxy.php?locid=1893&d=1&type=norm;	T;I"31-37 Stuart St;	T;I"Boston;	T;I"MA;	T;I"
+02116;	T;I"United States;	T;I"(617) 338-8586;	T;I"95;	T;I"0;	To;;I"	1896;	T;
+I"Kinsale, The;	T;I"Beer Bar;	T;I"?http://beermapping.com/maps/reviews/reviews.php?locid=1896;	T;I"=http://beermapping.com/maps/proxymaps.php?locid=1896&d=5;	T;I"Ghttp://beermapping.com/maps/blogproxy.php?locid=1896&d=1&type=norm;	T;I"2 Center Plaza;	T;I"Boston;	T;I"MA;	T;I"
+02108;	T;I"United States;	T;I"(617) 742-5577;	T;I"0;	T;I"0;	To;;I"	1900;	T;
+I"Mission Bar and Grill, The;	T;I"Beer Bar;	T;I"?http://beermapping.com/maps/reviews/reviews.php?locid=1900;	T;I"=http://beermapping.com/maps/proxymaps.php?locid=1900&d=5;	T;I"Ghttp://beermapping.com/maps/blogproxy.php?locid=1900&d=1&type=norm;	T;I"724 Huntington Avenue;	T;I"Boston;	T;I"MA;	T;I"
+02120;	T;I"United States;	T;I"(617) 566-1244 ;	T;I"0;	T;I"0;	To;;I"	1901;	T;
+I"MJ O'Connor's;	T;I"Beer Bar;	T;I"?http://beermapping.com/maps/reviews/reviews.php?locid=1901;	T;I"=http://beermapping.com/maps/proxymaps.php?locid=1901&d=5;	T;I"Ghttp://beermapping.com/maps/blogproxy.php?locid=1901&d=1&type=norm;	T;I"27 Columbus Ave;	T;I"Boston;	T;I"MA;	T;I"
+02116;	T;I"United States;	T;I"(617) 482-2255;	T;I"0;	T;I"0;	To;;I"	1905;	T;
+I"Parish Cafe;	T;I"Beer Bar;	T;I"?http://beermapping.com/maps/reviews/reviews.php?locid=1905;	T;I"=http://beermapping.com/maps/proxymaps.php?locid=1905&d=5;	T;I"Ghttp://beermapping.com/maps/blogproxy.php?locid=1905&d=1&type=norm;	T;I"361 Boylston St;	T;I"Boston;	T;I"MA;	T;I"
+02116;	T;I"United States;	T;I"(617) 247-4777 ;	T;I"0;	T;I"0;	To;;I"	1906;	T;
+I"Penguin Pizza;	T;I"Beer Bar;	T;I"?http://beermapping.com/maps/reviews/reviews.php?locid=1906;	T;I"=http://beermapping.com/maps/proxymaps.php?locid=1906&d=5;	T;I"Ghttp://beermapping.com/maps/blogproxy.php?locid=1906&d=1&type=norm;	T;I"735 Huntington Avenue;	T;I"Boston;	T;I"MA;	T;I"
+02120;	T;I"United States;	T;I"(617) 277-9200;	T;I"0;	T;I"0;	To;;I"	1910;	T;
+I"Porters Bar and Grill;	T;I"Beer Bar;	T;I"?http://beermapping.com/maps/reviews/reviews.php?locid=1910;	T;I"=http://beermapping.com/maps/proxymaps.php?locid=1910&d=5;	T;I"Ghttp://beermapping.com/maps/blogproxy.php?locid=1910&d=1&type=norm;	T;I"173 Portland Street;	T;I"Boston;	T;I"MA;	T;I"
+02114;	T;I"United States;	T;I"(617) 742-PORT;	T;I"0;	T;I"0;	To;;I"	1922;	T;
+I"Sunset Cantina;	T;I"Beer Bar;	T;I"?http://beermapping.com/maps/reviews/reviews.php?locid=1922;	T;I"=http://beermapping.com/maps/proxymaps.php?locid=1922&d=5;	T;I"Ghttp://beermapping.com/maps/blogproxy.php?locid=1922&d=1&type=norm;	T;I"916 Commonwealth Ave.;	T;I"Boston;	T;I"MA;	T;I"
+02215;	T;I"United States;	T;I"(617) 731-8646;	T;I"0;	T;I"0;	To;;I"	1926;	T;
+I""Times Restaurant And Pub, The;	T;I"Beer Bar;	T;I"?http://beermapping.com/maps/reviews/reviews.php?locid=1926;	T;I"=http://beermapping.com/maps/proxymaps.php?locid=1926&d=5;	T;I"Ghttp://beermapping.com/maps/blogproxy.php?locid=1926&d=1&type=norm;	T;I"112 Broad St;	T;I"Boston;	T;I"MA;	T;I"
+02110;	T;I"United States;	T;I"(617) 357-8463 ;	T;I"0;	T;I"0;	To;;I"	1929;	T;
+I"Woody's Grill And Tap;	T;I"Beer Bar;	T;I"?http://beermapping.com/maps/reviews/reviews.php?locid=1929;	T;I"=http://beermapping.com/maps/proxymaps.php?locid=1929&d=5;	T;I"Ghttp://beermapping.com/maps/blogproxy.php?locid=1929&d=1&type=norm;	T;I"58 Hemenway Street;	T;I"Boston;	T;I"MA;	T;I"
+02115;	T;I"United States;	T;I"(617) 375-9663 ;	T;I"0;	T;I"0;	To;;I"	2427;	T;
+I"Bauer Wine and Spirits;	T;I"Beer Store;	T;I"?http://beermapping.com/maps/reviews/reviews.php?locid=2427;	T;I"=http://beermapping.com/maps/proxymaps.php?locid=2427&d=5;	T;I"Ghttp://beermapping.com/maps/blogproxy.php?locid=2427&d=1&type=norm;	T;I"330 Newbury Street;	T;I"Boston;	T;I"MA;	T;I"
+02115;	T;I"United States;	T;I"(617) 262-0363;	T;I"100;	T;I"0;	To;;I"	2437;	T;
+I"Charles Street Liquors;	T;I"Beer Store;	T;I"?http://beermapping.com/maps/reviews/reviews.php?locid=2437;	T;I"=http://beermapping.com/maps/proxymaps.php?locid=2437&d=5;	T;I"Ghttp://beermapping.com/maps/blogproxy.php?locid=2437&d=1&type=norm;	T;I"143 Charles St.;	T;I"Boston;	T;I"MA;	T;I"
+02114;	T;I"United States;	T;I"(617) 523-5051;	T;I"92.500025;	T;I"0;	To;;I"	2438;	T;
+I"Dara's Wine and Spirits;	T;I"Beer Store;	T;I"?http://beermapping.com/maps/reviews/reviews.php?locid=2438;	T;I"=http://beermapping.com/maps/proxymaps.php?locid=2438&d=5;	T;I"Ghttp://beermapping.com/maps/blogproxy.php?locid=2438&d=1&type=norm;	T;I"750 Huntington Avenue;	T;I"Boston;	T;I"MA;	T;I"
+02115;	T;I"United States;	T;I"(617) 566-4850 ;	T;I"0;	T;I"0;	To;;I"	2439;	T;
+I""Deluca's Market and Wine Shop;	T;I"Beer Store;	T;I"?http://beermapping.com/maps/reviews/reviews.php?locid=2439;	T;I"=http://beermapping.com/maps/proxymaps.php?locid=2439&d=5;	T;I"Ghttp://beermapping.com/maps/blogproxy.php?locid=2439&d=1&type=norm;	T;I"11 Charles St.;	T;I"Boston;	T;I"MA;	T;I"
+02114;	T;I"United States;	T;I"(617) 227-2117 ;	T;I"0;	T;I"0;	To;;I"	2441;	T;
+I"Federal Wines and Spirits;	T;I"Beer Store;	T;I"?http://beermapping.com/maps/reviews/reviews.php?locid=2441;	T;I"=http://beermapping.com/maps/proxymaps.php?locid=2441&d=5;	T;I"Ghttp://beermapping.com/maps/blogproxy.php?locid=2441&d=1&type=norm;	T;I"29 State Street;	T;I"Boston;	T;I"MA;	T;I"
+02109;	T;I"United States;	T;I"(617) 367-8605 ;	T;I"0;	T;I"0;	To;;I"	2465;	T;
+I"South End Formaggio;	T;I"Beer Store;	T;I"?http://beermapping.com/maps/reviews/reviews.php?locid=2465;	T;I"=http://beermapping.com/maps/proxymaps.php?locid=2465&d=5;	T;I"Ghttp://beermapping.com/maps/blogproxy.php?locid=2465&d=1&type=norm;	T;I"268 Shawmut Ave;	T;I"Boston;	T;I"MA;	T;I"
+02118;	T;I"United States;	T;I"(617) 350-6996;	T;I"0;	T;I"0;	To;;I"	2473;	T;
+I""Wine Emporium - Columbus Ave.;	T;I"Beer Store;	T;I"?http://beermapping.com/maps/reviews/reviews.php?locid=2473;	T;I"=http://beermapping.com/maps/proxymaps.php?locid=2473&d=5;	T;I"Ghttp://beermapping.com/maps/blogproxy.php?locid=2473&d=1&type=norm;	T;I"474 Columbus Ave;	T;I"Boston;	T;I"MA;	T;I"
+02118;	T;I"United States;	T;I"(617) 536-5545 ;	T;I"0;	T;I"0;	To;;I"	2474;	T;
+I"#Wine Emporium - Tremont Street;	T;I"Beer Store;	T;I"?http://beermapping.com/maps/reviews/reviews.php?locid=2474;	T;I"=http://beermapping.com/maps/proxymaps.php?locid=2474&d=5;	T;I"Ghttp://beermapping.com/maps/blogproxy.php?locid=2474&d=1&type=norm;	T;I"607 Tremont Street;	T;I"Boston;	T;I"MA;	T;I"
+02118;	T;I"United States;	T;I"(617) 536-5545;	T;I"0;	T;I"0;	To;;I"	2475;	T;
+I"Wine Gallery - Boston;	T;I"Beer Store;	T;I"?http://beermapping.com/maps/reviews/reviews.php?locid=2475;	T;I"=http://beermapping.com/maps/proxymaps.php?locid=2475&d=5;	T;I"Ghttp://beermapping.com/maps/blogproxy.php?locid=2475&d=1&type=norm;	T;I"516 Commonwealth Ave;	T;I"Boston;	T;I"MA;	T;I"
+02215;	T;I"United States;	T;I"(617) 266-9300;	T;I"0;	T;I"0;	To;;I"	3142;	T;
+I"Sevens Ale House;	T;I"Beer Bar;	T;I"?http://beermapping.com/maps/reviews/reviews.php?locid=3142;	T;I"=http://beermapping.com/maps/proxymaps.php?locid=3142&d=5;	T;I"Ghttp://beermapping.com/maps/blogproxy.php?locid=3142&d=1&type=norm;	T;I"77 Charles Street;	T;I"Boston;	T;I"MA;	T;I"
+02114;	T;I"United States;	T;I"(617) 523-9074;	T;I"0;	T;I"0;	To;;I"	3752;	T;
+I"Deluca's Back Bay Market;	T;I"Beer Store;	T;I"?http://beermapping.com/maps/reviews/reviews.php?locid=3752;	T;I"=http://beermapping.com/maps/proxymaps.php?locid=3752&d=5;	T;I"Ghttp://beermapping.com/maps/blogproxy.php?locid=3752&d=1&type=norm;	T;I"239 Newbury St.;	T;I"Boston;	T;I"MA;	T;I"
+02116;	T;I"United States;	T;I"(617) 262-5990;	T;I"0;	T;I"0;	To;;I"	5212;	T;
+I"Merchants Wine and Spirits;	T;I"Beer Store;	T;I"?http://beermapping.com/maps/reviews/reviews.php?locid=5212;	T;I"=http://beermapping.com/maps/proxymaps.php?locid=5212&d=5;	T;I"Ghttp://beermapping.com/maps/blogproxy.php?locid=5212&d=1&type=norm;	T;I"6 Water Street;	T;I"Boston;	T;I"MA;	T;I"
+02109;	T;I"United States;	T;I"(617) 523-7425;	T;I"0;	T;I"0;	To;;I"	5304;	T;
+I"Lower Depths;	T;I"Beer Bar;	T;I"?http://beermapping.com/maps/reviews/reviews.php?locid=5304;	T;I"=http://beermapping.com/maps/proxymaps.php?locid=5304&d=5;	T;I"Ghttp://beermapping.com/maps/blogproxy.php?locid=5304&d=1&type=norm;	T;I"476 Commonwealth Ave;	T;I"Boston;	T;I"MA;	T;I"
+02215;	T;I"United States;	T;I"(617) 266-6662;	T;I"86.6668;	T;I"0;	To;;I"	6397;	T;
+I"Squealing Pig, The;	T;I"Beer Bar;	T;I"?http://beermapping.com/maps/reviews/reviews.php?locid=6397;	T;I"=http://beermapping.com/maps/proxymaps.php?locid=6397&d=5;	T;I"Ghttp://beermapping.com/maps/blogproxy.php?locid=6397&d=1&type=norm;	T;I"134 Smith Street;	T;I"Boston;	T;I"MA;	T;I"
+02120;	T;I"United States;	T;I"(617) 566-6651;	T;I"0;	T;I"0;	To;;I"	7055;	T;
+I"Black Rose, The;	T;I"Beer Bar;	T;I"?http://beermapping.com/maps/reviews/reviews.php?locid=7055;	T;I"=http://beermapping.com/maps/proxymaps.php?locid=7055&d=5;	T;I"Ghttp://beermapping.com/maps/blogproxy.php?locid=7055&d=1&type=norm;	T;I"160 State St;	T;I"Boston;	T;I"MA;	T;I"
+02109;	T;I"United States;	T;I"(617) 742-2286;	T;I"78.3332;	T;I"0;	To;;I"	7263;	T;
+I"Sweetwater Cafe;	T;I"Beer Bar;	T;I"?http://beermapping.com/maps/reviews/reviews.php?locid=7263;	T;I"=http://beermapping.com/maps/proxymaps.php?locid=7263&d=5;	T;I"Ghttp://beermapping.com/maps/blogproxy.php?locid=7263&d=1&type=norm;	T;I"3 Boylston Pl;	T;I"Boston;	T;I"MA;	T;I"
+02116;	T;I"United States;	T;I"(617) 351-2515;	T;I"0;	T;I"0;	To;;I"
+10624;	T;
+I"Beer Works - BOS airport;	T;I"Beer Bar;	T;I"@http://beermapping.com/maps/reviews/reviews.php?locid=10624;	T;I">http://beermapping.com/maps/proxymaps.php?locid=10624&d=5;	T;I"Hhttp://beermapping.com/maps/blogproxy.php?locid=10624&d=1&type=norm;	T;I"%Terminals C and E, Logan Airport;	T;I"Boston;	T;I"MA;	T;I"
+02128;	T;I"United States;	T;I"(617) 569-2277;	T;I"78.33335;	T;I"0;	To;;I"
+11167;	T;
+I"!Cisco Brew Pub - BOS airport;	T;I"Beer Bar;	T;I"@http://beermapping.com/maps/reviews/reviews.php?locid=11167;	T;I">http://beermapping.com/maps/proxymaps.php?locid=11167&d=5;	T;I"Hhttp://beermapping.com/maps/blogproxy.php?locid=11167&d=1&type=norm;	T;I"18 B Logan Airport;	T;I"Boston;	T;I"MA;	T;I"
+02128;	T;I"United States;	T;0;I"0;	T;I"0;	To;;I"
+11168;	T;
+I"#Harpoon Tap Room - BOS airport;	T;I"Beer Bar;	T;I"@http://beermapping.com/maps/reviews/reviews.php?locid=11168;	T;I">http://beermapping.com/maps/proxymaps.php?locid=11168&d=5;	T;I"Hhttp://beermapping.com/maps/blogproxy.php?locid=11168&d=1&type=norm;	T;I"18 B Logan Airport;	T;I"Boston;	T;I"MA;	T;I"
+02128;	T;I"United States;	T;0;I"0;	T;I"0;	To;;I"
+11857;	T;
+I"Bottles;	T;I"Beer Store;	T;I"@http://beermapping.com/maps/reviews/reviews.php?locid=11857;	T;I">http://beermapping.com/maps/proxymaps.php?locid=11857&d=5;	T;I"Hhttp://beermapping.com/maps/blogproxy.php?locid=11857&d=1&type=norm;	T;I"372 Commercial Street;	T;I"Boston;	T;I"MA;	T;I"
+02109;	T;I"United States;	T;I"(617) 391-0021;	T;I"0;	T;I"0;	To;;I"
+12749;	T;
+I"	Coda;	T;I"Beer Bar;	T;I"@http://beermapping.com/maps/reviews/reviews.php?locid=12749;	T;I">http://beermapping.com/maps/proxymaps.php?locid=12749&d=5;	T;I"Hhttp://beermapping.com/maps/blogproxy.php?locid=12749&d=1&type=norm;	T;I"329 Columbus Ave.;	T;I"Boston;	T;I"MA;	T;I"
+02116;	T;I"United States;	T;I"(617) 536-2632;	T;I"0;	T;I"0;	To;;I"
+14931;	T;
+I"!Stoddard's Fine Food and Ale;	T;I"Beer Bar;	T;I"@http://beermapping.com/maps/reviews/reviews.php?locid=14931;	T;I">http://beermapping.com/maps/proxymaps.php?locid=14931&d=5;	T;I"Hhttp://beermapping.com/maps/blogproxy.php?locid=14931&d=1&type=norm;	T;I"48 Temple Place;	T;I"Boston;	T;I"MA;	T;I"
+02111;	T;I"United States;	T;I"(617) 426-0048;	T;I"0;	T;I"0;	To;;I"
+15568;	T;
+I"Deadwood Cafe and Brewery;	T;I"Brewpub;	T;I"@http://beermapping.com/maps/reviews/reviews.php?locid=15568;	T;I">http://beermapping.com/maps/proxymaps.php?locid=15568&d=5;	T;I"Hhttp://beermapping.com/maps/blogproxy.php?locid=15568&d=1&type=norm;	T;I"820 Morrissey Blvd;	T;I"Boston;	T;I"MA;	T;I"
+02122;	T;I"United States;	T;I"(617) 825-3800;	T;I"0;	T;I"0;	To;;I"
+17377;	T;
+I"Trillium Brewing Company;	T;I"Brewery;	T;I"@http://beermapping.com/maps/reviews/reviews.php?locid=17377;	T;I">http://beermapping.com/maps/proxymaps.php?locid=17377&d=5;	T;I"Hhttp://beermapping.com/maps/blogproxy.php?locid=17377&d=1&type=norm;	T;I"369 Congress Street;	T;I"Boston;	T;I"MA;	T;I"
+02210;	T;I"United States;	T;I"(617) 453-8745;	T;I"0;	T;I"0;	To;;I"
+20252;	T;
+I"Row 34;	T;I"Beer Bar;	T;I"@http://beermapping.com/maps/reviews/reviews.php?locid=20252;	T;I">http://beermapping.com/maps/proxymaps.php?locid=20252&d=5;	T;I"Hhttp://beermapping.com/maps/blogproxy.php?locid=20252&d=1&type=norm;	T;I"383 Congress St;	T;I"Boston;	T;I"MA;	T;I"
+02210;	T;I"United States;	T;I"(617) 553-5900;	T;I"0;	T;I"0;	T:@created_atf1456175541.5621321:@expires_in0

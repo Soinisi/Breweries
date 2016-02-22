@@ -11,6 +11,15 @@ class BeerClubsController < ApplicationController
   # GET /beer_clubs/1
   # GET /beer_clubs/1.json
   def show
+    @membership = Membership.new
+    
+    @membership.beer_club = @beer_club
+    
+    if not is_not_member(current_user, @beer_club)
+      @membership = current_user.memberships.find_by beer_club_id: @beer_club.id
+      
+    end
+
   end
 
   # GET /beer_clubs/new
@@ -72,4 +81,15 @@ class BeerClubsController < ApplicationController
     def beer_club_params
       params.require(:beer_club).permit(:name, :founded, :city)
     end
+
+    def is_not_member(user, club)
+  club.members.each do |member|
+   if user == member
+    return false
+   end
+  end
+  true
+ end
+
+
 end

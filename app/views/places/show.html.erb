@@ -15,5 +15,5 @@
 </p>
 </p>
  
-<iframe src="<%(BeermappingApi.places_in(session[:last_city])).select{|pub| pub.id == params[:id].to_s}[0].proxylink%>" ></iframe>
+<iframe src="<%=(BeermappingApi.places_in(session[:last_city])).select{|pub| pub.id == params[:id].to_s}[0].proxylink%>" ></iframe>
 </p>
