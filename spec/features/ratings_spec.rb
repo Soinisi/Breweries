@@ -1,4 +1,5 @@
 require 'rails_helper'
+
 include Helpers
 
 describe "Ratings" do

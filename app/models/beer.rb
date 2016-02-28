@@ -21,8 +21,11 @@ class Beer < ActiveRecord::Base
  #end
 	#return self.ratings.inject(0.0){|sum, rating| sum + rating.score } / self.ratings.count
 	#end
-
-	def to_s
+def self.top(n)
+    Beer.all.sort_by{ |b| -(b.average_rating||0) }.first(n)
+ end 
+	
+  def to_s
 		"#{self.name} #{self.brewery.name}"
 	end
 end

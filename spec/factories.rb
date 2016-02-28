@@ -12,7 +12,8 @@ FactoryGirl.define do
   factory :rating2, class: Rating do
     score 20
   end
- factory :brewery do
+
+  factory :brewery do
     name "anonymous"
     year 1900
   end
@@ -20,9 +21,10 @@ FactoryGirl.define do
   factory :beer do
     name "anonymous"
     brewery
-    style "Lager"
+    style
   end
 
-
-
+  factory :style do
+    name "Lager"
+  end
 end

@@ -7,6 +7,14 @@ class Brewery < ActiveRecord::Base
   validates :name, presence: true
   validates :year, numericality: {less_than_or_equal_to: Proc.new {Time.now.year}}
 
+  scope :active, -> { where active:true }
+  scope :retired, -> { where active:[nil,false] }
+  
+ def self.top(n)
+    Brewery.all.sort_by{ |b| -(b.average_rating||0) }.first(n)
+ end 
+
+
   def print_report
   	puts name
   	puts "established at year #{year}"

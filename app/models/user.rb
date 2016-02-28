@@ -44,6 +44,8 @@ def favorite_style
     ratings_of = ratings.select{ |r| r.beer.brewery==brewery }
     ratings_of.map(&:score).inject(&:+) / ratings_of.count.to_f
   end
-
+  def self.top(n)
+    User.all.sort_by{ |b| -(b.ratings.count) }.first(n)
+  end 
 
 end

@@ -1,0 +1,24 @@
+<table class="table">
+<thead>
+    <tr>
+      <th>Name</th>
+      <th>Average</th>
+      
+      <th colspan="2"></th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <% top_breweries.each do |brewery| %>
+      <tr>
+       	<% if not brewery.try(:name) %>
+       		<td><%= brewery.username  %></td>
+       	<% else %>
+        	<td><%= brewery.name  %></td>
+        	<% end %>
+        <td><%= brewery.average_rating %></td>
+       
+        </tr>
+    <% end %>
+</tbody>
+</table>
