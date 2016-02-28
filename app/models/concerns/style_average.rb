@@ -7,9 +7,9 @@ module StyleAverage
 		b = 0.0
 		i = 0
 		
-		style.beers.each do |beer|
+		beers.each do |beer|
 				
-					style.beer.ratings.each do |rating|	
+					beer.ratings.each do |rating|	
 						if rating.score
 							b = b + rating.score
 							i = i + 1

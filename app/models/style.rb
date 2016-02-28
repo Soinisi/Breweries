@@ -4,7 +4,10 @@ class Style < ActiveRecord::Base
 	has_many :beers
 
 def self.top(n)
-    
+ 	Style.second.style_average
+		
+
+	
     
  		
  end 
