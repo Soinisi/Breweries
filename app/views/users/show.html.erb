@@ -47,3 +47,9 @@ Average rating: <%= @user.average_rating %>
   <%= link_to 'Delete account', @user, method: :delete, data: { confirm: 'Are you sure?' } %>
   <%= link_to 'Edit', edit_user_path(@user) %>
 <% end %>
+
+<% if admin_user %>
+  <% label = @user.locked? ? 'unlock' : 'lock' %>
+  <%= link_to label, toggle_lock_user_path(@user.id), method: :post, class: "btn btn-primary"
+  %>
+<% end %>

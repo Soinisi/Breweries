@@ -1,24 +1,26 @@
 
 
-
-<p>
+<div class="row" >
+<div class="col-md-3">
   <h2>Best styles</h2>
-  <%= @top_styles %>
-</p>
-<p>
+  <%= render 'best', top_breweries: @top_styles %>
+</div>
+<div class="col-md-3">
   <h2>Best beers</h2>
   <%= render 'best', top_breweries: @top_beers %>
-</p>
-<p>
+</div>
+<div class="col-md-3">
   <h2>Most active users</h2>
   <%= render 'best', top_breweries: @top_users %>
-</p>
+</div>
 
-<p>
+<div class="col-md-3">
   <h2>Best breweries</h2>
   <%= render 'best', top_breweries: @top_breweries %>
-</p>
+</div>
+</div>
 <p>
+
   <h2>Last five Ratings</h2>
   <%= render 'list', ratings: @new_ratings %>
 

@@ -9,6 +9,15 @@ Rails.application.routes.draw do
   resource :session, only: [:new, :create, :destroy]
   resources :places, only:[:index, :show]
   
+  resources :breweries do
+    post 'toggle_activity', on: :member
+  end
+
+  resources :users do
+    post 'toggle_lock', on: :member
+  end
+  
+
   root 'breweries#index'
   get 'kaikki_bisset', to: 'beers#index'
   get 'ratings', to: 'ratings#index'
@@ -19,6 +28,9 @@ Rails.application.routes.draw do
   delete 'signout', to: 'sessions#destroy'
   
   post 'places', to:'places#search'
+  get 'beerlist', to:'beers#list'
+  get 'ngbeerlist', to:'beers#nglist'
+  get 'brewerylist', to:'breweries#list'
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
 

@@ -1,0 +1,34 @@
+o: ActiveSupport::Cache::Entry:@valueI"À
+<h2>BrewDog
+</h2>
+
+
+<em>
+  Established at
+  2007
+</em>
+
+<p>
+  Number of beers
+  11
+</p>
+
+<p>
+    <a href="/beers/8">Punk IPA</a>
+    <a href="/beers/9">Nanny State</a>
+    <a href="/beers/111">Beer 4 -- 1</a>
+    <a href="/beers/112">Beer 4 -- 2</a>
+    <a href="/beers/113">Beer 4 -- 3</a>
+    <a href="/beers/114">Beer 4 -- 4</a>
+    <a href="/beers/115">Beer 4 -- 5</a>
+    <a href="/beers/116">Beer 4 -- 6</a>
+    <a href="/beers/117">Beer 4 -- 7</a>
+    <a href="/beers/118">Beer 4 -- 8</a>
+    <a href="/beers/119">Beer 4 -- 9</a>
+</p>
+
+    <p>Has 25 ratings, average 25.4 </p>
+
+<a class="btn btn-primary" rel="nofollow" data-method="post" href="/breweries/4/toggle_activity">change activity</a>
+
+:ET:@created_atf1457221819.7940922:@expires_in0
