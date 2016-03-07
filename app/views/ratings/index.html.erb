@@ -1,4 +1,4 @@
-
+<% cache 'ratinglist', skip_digest: true do %>
 
 <div class="row" >
 <div class="col-md-3">
@@ -35,3 +35,4 @@
 </p>
 
 <%= link_to 'new rating', new_rating_path, class:'btn btn-default' %>
+<% end %>
